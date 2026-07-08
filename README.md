@@ -259,18 +259,9 @@ Install the necessary libraries using:
 pip install pandas matplotlib mlxtend jupyter
 ```
 
-## Running the Project
+## Dataset Availability
 
-1. Clone or download the project.
-2. Place `armut_data.csv` in the project directory.
-3. Update the dataset path in the notebook according to your local environment.
-4. Open the notebook:
-
-```bash
-jupyter notebook
-```
-
-5. Run all cells in order.
+The dataset used in this project is not included in this GitHub repository.
 
 ## Project Structure
 
@@ -278,7 +269,6 @@ jupyter notebook
 Armut-ARL-Recommender-System/
 │
 ├── armut_arl.ipynb
-├── armut_data.csv
 └── README.md
 ```
 
